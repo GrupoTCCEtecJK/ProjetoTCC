@@ -1,6 +1,9 @@
 <?php
+$host = "localhost";
 $username = "root";
-$password = "C0rdegelo@21";
+$password = "root";
+$database = "db_espacodosaber";
+$tipagemBanco = "mysql";
 
 //"conn" é de conexão
 
