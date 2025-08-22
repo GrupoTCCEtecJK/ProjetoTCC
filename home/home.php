@@ -4,11 +4,11 @@
   <section class="bg-light-blue py-5">
     <div class="container d-flex flex-column flex-md-row align-items-center justify-content-between">
       <div class="mb-4 mb-md-0">
-        <h2 class="btn rounded-4 bg-dark-blue text-light fs-3 fw-semibold">Vamos estudar?</h2>
+        <h2 class="btn btn-dark rounded-4 bg-dark-blue text-light fs-3 fw-semibold">Vamos estudar?</h2>
         <h3 class="h4 mb-3">Auxiliando você a conquistar a aprovação no vestibular!</h3>
         <p class="mb-4">Bem-vindo(a) ao nosso cursinho gratuito! Aqui você encontra aulas, materiais, simulados e playlists de estudo para te apoiar em cada etapa da sua jornada. E o melhor: tudo 100% gratuito!</p>
-        <div>
-          <a href="/loginecadastro/index.html" class="btn rounded-4 bg-dark-blue text-light px-4 py-2">Começar a estudar</a>
+        <div>           
+          <a href="#" class="btn btn-dark rounded-4 bg-dark-blue text-light px-4 py-2">Começar a estudar</a>
         </div>
       </div>
       <div class="ms-md-5">
@@ -25,6 +25,9 @@
                     Criamos esse projeto no TCC porque acreditamos na educação
                     acessível para preparação para o vestibular de ingresso
                     no ensino superior.</p>
+      <div>
+        <img src="../img/sobre.png" class="img-fluid" style="max-width: 400px;">
+      </div>
     </div>
   </section>
 
@@ -155,7 +158,7 @@
   </section>
 
   
-  <section class="bg-dark-blue text-light text-center py-5">
+  <section class="bg-light-blue text-light text-center py-5">
     <div class="container">
       <h2 class="fw-bold">Pronto para começar sua jornada?</h2>
       <p class="mb-4">Cadastre-se agora e comece a sua preparação!</p>

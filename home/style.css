@@ -9,6 +9,15 @@
 
 }
 
+.btn-dark {
+    background-color: #0b1d51;
+}
+
+.btn-dark:hover {
+    background-color: #000000;
+}
+
+
 .bg-dark-blue {
     background-color: #0b1d51;
 }
@@ -24,6 +33,11 @@
 [data-bs-theme="dark"] .bg-dark-blue {
   background-color: #374779;
 }
+
+[data-bs-theme="dark"] .bg-footer-blue {
+    background-color: #050f2e;
+}
+
 
 [data-bs-theme="dark"] .text-primary {
   color: #ff1b1b !important;
