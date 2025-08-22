@@ -24,3 +24,7 @@
 [data-bs-theme="dark"] .bg-dark-blue {
   background-color: #374779;
 }
+
+[data-bs-theme="dark"] .text-primary {
+  color: #ff1b1b !important;
+}
