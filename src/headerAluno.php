@@ -16,7 +16,7 @@
     <nav class="navbar navbar-expand-lg bg-dark-blue px-3 shadow">
         <div class="container-fluid">
             <a class="navbar-brand d-flex align-items-center fw-semibold text-light" href="#">
-                <img src="../../img/icon.png" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+                <img src="../../../../img/icon.png" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
                 Espaço do Saber
             </a>
             <form class="form-inline">
